@@ -72,7 +72,7 @@ if DATABASE_URL:
 
 UPSTREAM_REPO = environ.get("UPSTREAM_REPO", "")
 if len(UPSTREAM_REPO) == 0:
-    UPSTREAM_REPO = 'https://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@github.com/ALPHONKAL/Tabloid-'
+    UPSTREAM_REPO = 'https://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@github.com/ALPHONKAL/lee6'
 
 UPSTREAM_BRANCH = environ.get("UPSTREAM_BRANCH", "")
 if len(UPSTREAM_BRANCH) == 0:
